@@ -20,8 +20,12 @@
 
 사용설명서 바로가기 : [📖 ChatGee 사용설명서](https://woensug-choi.github.io/ChatGee_Doc/jekyll/Introduction.html)
 
+# OPENAPI 대신 로컬 PC에서 비용 부담 없이 이용하는 방법
 
-
+- LM Studio 설치 : https://lmstudio.ai/
+- venv_chatgee/lib/python3.10/site-packages/openai/__init__.py 에서 OPENAI_API_BASE 주소 수정
+![OPENAI_API_BASE](https://raw.githubusercontent.com/olabi/gpt/main/OPENAI_API_BASE.png)
+![ChatGee](https://raw.githubusercontent.com/olabi/gpt/main/chatgee.JPG)
 ---
 ### License
 

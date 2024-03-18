@@ -17,4 +17,6 @@ build
 dist
 *.spec
 tunnel_output.txt
-
+ngrok*
+.pytest*
+.DS_Store
